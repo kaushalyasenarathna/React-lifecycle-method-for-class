@@ -33,5 +33,4 @@ To run this application locally, follow these steps:
 4. Start the development server:
 
        npm start
-     
->>>>>>> a358738 (Initial commit)
+ 
